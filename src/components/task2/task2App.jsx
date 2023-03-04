@@ -4,7 +4,7 @@ export default function Task2App() {
   return (
     <div className="container-fluid">
       <div className="container">
-        <h1 className="my-5">Task 2</h1>
+        <h1 className="my-5">Mission 2</h1>
 
         <div>Hello</div>
       </div>
